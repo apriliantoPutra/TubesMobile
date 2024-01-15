@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697035719774",
+    "project_id": "sign-up-tubes",
+    "storage_bucket": "sign-up-tubes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697035719774:android:7dc03370e48fa0141020cf",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA51nfZrN5sbnL0HemOPQo6PdmpiNgvs1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
